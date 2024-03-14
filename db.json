@@ -1,0 +1,86 @@
+{
+  "allVideos": [
+    {
+      "caption": "Muniba mazari",
+      "url": "https://www.youtube.com/embed/meOWV1w2GE8?si=tmctTKq-El5uP717",
+      "image": "https://i.ytimg.com/vi/fBnAMUkNM2k/maxresdefault.jpg",
+      "id": 44
+    },
+    {
+      "caption": "husn ",
+      "url": "https://www.youtube.com/embed/K0SQOMW_-zc?si=tmctTKq-El5uP717",
+      "image": "https://i.ytimg.com/vi/zJO2faAxhE0/maxresdefault.jpg",
+      "id": 45
+    },
+    {
+      "caption": "friends",
+      "url": "https://www.youtube.com/embed/xT5zt93BbAg?si=tmctTKq-El5uP717",
+      "image": "https://images1.resources.foxtel.com.au/store2/mount1/16/3/85td8.jpg",
+      "id": 46
+    },
+    {
+      "caption": "premalu",
+      "url": "https://www.youtube.com/embed/rR_2ti4l3nM?si=tmctTKq-El5uP717",
+      "image": "https://imgeng.jagran.com/images/2024/feb/Premalu1708613608836.jpg",
+      "id": 47
+    }
+  ],
+  "categories": [
+    {
+      "name": "music",
+      "videos": [
+        {
+          "caption": "husn ",
+          "url": "https://www.youtube.com/embed/K0SQOMW_-zc?si=tmctTKq-El5uP717",
+          "image": "https://i.ytimg.com/vi/zJO2faAxhE0/maxresdefault.jpg",
+          "id": 45
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "trailer",
+      "videos": [
+        {
+          "caption": "premalu",
+          "url": "https://www.youtube.com/embed/rR_2ti4l3nM?si=tmctTKq-El5uP717",
+          "image": "https://imgeng.jagran.com/images/2024/feb/Premalu1708613608836.jpg",
+          "id": 47
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "series",
+      "videos": [
+        {
+          "caption": "friends",
+          "url": "https://www.youtube.com/embed/xT5zt93BbAg?si=tmctTKq-El5uP717",
+          "image": "https://images1.resources.foxtel.com.au/store2/mount1/16/3/85td8.jpg",
+          "id": 46
+        }
+      ],
+      "id": 5
+    }
+  ],
+  "history": [
+    {
+      "caption": "Muniba mazari",
+      "url": "https://www.youtube.com/embed/meOWV1w2GE8?si=tmctTKq-El5uP717",
+      "datetime": "2024-03-13T06:14:04.585Z",
+      "id": 12
+    },
+    {
+      "caption": "friends",
+      "url": "https://www.youtube.com/embed/xT5zt93BbAg?si=tmctTKq-El5uP717",
+      "datetime": "2024-03-14T05:37:34.276Z",
+      "id": 13
+    },
+    {
+      "caption": "friends",
+      "url": "https://www.youtube.com/embed/xT5zt93BbAg?si=tmctTKq-El5uP717",
+      "datetime": "2024-03-14T05:42:22.646Z",
+      "id": 14
+    }
+  ]
+}
